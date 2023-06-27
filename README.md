@@ -4,7 +4,7 @@ FORECASTING OF THE NEXT DEMAND:
 
 There are two datasets 
 
-sales.csv and prediction .csv
+sales.csv and next 4 month prediction .csv
 
 Simple moving average (SMA) is calculated in excel first and then on it models are used 
 Forecasting of 2020 1st quarter is shown using gradient boost since linear regression performed badly during training.
