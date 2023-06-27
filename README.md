@@ -6,6 +6,6 @@ There are two datasets
 
 sales.csv and next 4 month prediction .csv
 
-Simple moving average (SMA) is calculated in excel first and then on it models are used 
-Forecasting of 2020 1st quarter is shown using gradient boost since linear regression performed badly during training.
+Simple moving average (SMA) is calculated in excel first and then on it models are used for
+forecasting of 2020 1st quarter . Model used is gradient boost since linear regression performed badly during training.
 
